@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is to have fun & learn :)
 
-Currently learning: Powershell, SQL, Python, JavaScript, HTML (for fun) & Network topology 
+Currently learning: Powershell, SQL, Python, JavaScript, HTML, & Network topology 
 
 - I'm currently working on a webscraper, bots, and on a plan to destroy data centers across north america (last one is a joke)
 
