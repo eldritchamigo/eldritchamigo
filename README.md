@@ -2,7 +2,7 @@
 
 Currently learning: Powershell, SQL, Python, JavaScript, HTML, & Network topology 
 
-- I'm currently working on a webscraper, bots, and on a plan to destroy data centers across north america (last one is a joke)
+- I'm currently working on a webscraper, bots, malware, and handy tools
 
 
 <!--
